@@ -1,0 +1,13 @@
+{
+  "solidity.compileUsingRemoteVersion": "v0.4.24+commit.e67f0147",
+  "solidity.compileUsingLocalVersion": "v0.4.24+commit.e67f0147",
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "editor.formatOnSave": true
+}
